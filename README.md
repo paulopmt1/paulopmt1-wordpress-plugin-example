@@ -1,1 +1,1 @@
-# paulopmt1-wordpress-plugin-example
+# wordpress-plugin-example
